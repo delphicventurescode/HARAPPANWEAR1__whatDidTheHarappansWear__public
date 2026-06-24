@@ -34,7 +34,7 @@ Our iconographic proof shows that wrapping and draping rectangles was a key meth
 
 <Image alt="The Priest-King statue from Mohenjo-daro showing a patterned shawl draped over the left shoulder and tucked under the right arm" caption="The iconic Priest-King sculpture showcasing a draped Harappan shawl" src="image_agent_tag_5484251475278157751"/>
 
-*   **The Upper Garment (The Shawl):** As seen on the iconic **"Priest-King" bust**, one prominent style of elite Harappan dress consisted of a long rectangular shawl draped asymmetrically over the left shoulder and tucked beneath the right arm. This left the right hand unencumbered while showcasing block-printed or embroidered trefoil motifs across an unbroken canvas of fabric.
+*   **The Upper Garment (The Shawl):** As seen on the iconic **"Priest-King" bust**, one prominent style of elite Harappan dress consisted of a long rectangular shawl draped asymmetrically over the left shoulder and tucked beneath the right arm. This left the right hand unencumbered while potentially showcasing block-printed or embroidered trefoil motifs across an unbroken canvas of fabric.
 *   **The Lower Garment (The Proto-Dhoti):** Terracotta figurines of both men and women show that a short, rectangular strip of cotton wound around the hips was another widely utilized garment style. For men, it was often passed between the thighs and tucked at the back—a direct architectural ancestor to the modern South Asian dhoti. For women, it could form a brief skirt secured by a heavy, multi-tiered ornamental girdle.
 
 ---
