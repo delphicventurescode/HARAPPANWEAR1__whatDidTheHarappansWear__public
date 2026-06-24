@@ -16,7 +16,7 @@ What fundamentally changed human history—and ultimately disrupted the ancient 
 
 > In a power-law dynamic, a single technological point of leverage yields compounding, astronomical results. 
 
-Suddenly, a single machine operator wasn't just 10% or 20% more productive; by turning a single wheel, an operator could spin eight, eighty, and eventually hundreds of spools of thread simultaneously. Combined with water- and steam-powered looms, textile production exploded by orders of magnitude. Fabric transformed almost overnight from a painstakingly preserved luxury item into a mass-produced commodity. This hyper-abundance of cheap cloth is what finally made tailored, heavily cut, and disposable clothing economically viable on a global scale.
+Suddenly, a single machine operator wasn't just 10% or 20% more productive; by turning a single wheel, an operator could spin eight, eighty, and eventually hundreds of spools of thread simultaneously. Combined with water- and steam-powered looms, textile production exploded by orders of magnitude. Fabric transformed almost overnight from a painstakingly preserved luxury item into a mass-produced commodity. This hyper-abundance of cheap cloth is what finally made tailored, heavily cut, and disposable clothing economically viable on a global scale. The argument here is not that nature is optimizing, as made in the book "The e-dimenstionality principle", which is an interesting approach in and of itself, but that humans are clever enough that, as a species, they were also constantly optimizing. One must not think of the optimization we now see in the labor markets via A.I. as an aberration.
 
 ---
 
@@ -55,8 +55,9 @@ It took the power-law explosion of the Spinning Jenny and powered looms to make 
 
 ---
 
-### Bibliography (For Research Expansion)
-1. **Hargreaves, James.** *The Spinning Jenny and the Power Law of Industrial Production.* Industrial History Review, 2012.
+### Bibliography 
+1. **Wilk, Grzegorz and Zbigniew Wlodarczyk** *On possible origins of power-law distributions*
 2. **Kenoyer, J. Mark.** *Ancient Cities of the Indus Valley Civilization.* Oxford University Press, 1998. 
 3. **Gulati, A.N., and Turner, A.J.** *A Note on the Early History of Cotton.* Indian Central Cotton Committee, 1928.
 4. **Parpola, Asko.** *The Roots of Hinduism: The Early Aryans and the Indus Civilization.* Oxford University Press, 2015. (Discusses the cultural continuity of unstitched garments in South Asia).
+5. **Subhash Kak**, The e-Dimensionality Information Principle.
